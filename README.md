@@ -53,11 +53,11 @@ SOFTWARE.
 4. At the same level as the "4ed" folder, clone the "4coder-non-source" repository
 5. A. On windows setup the visual studio command line magic sauce so that "cl" works
    B. On linux setup g++
-   C. On mac setup clang
+   C. On macOS setup clang
 6. Navigate to the "4ed/code" folder.
 7. A. On windows run "bin\build.bat"
    B. On linux run "bin\build-linux.sh"
-   C. On linux run "bin\build-mac.sh"
+   C. On macOS run "bin\build-mac.sh"
 
 
 # Notes on Major Issues
